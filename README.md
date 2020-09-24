@@ -1,4 +1,4 @@
-# BLOCUS.XYZ
+# BLOCUS
 # Mukanisa Rank
 ## Étymologie
 
